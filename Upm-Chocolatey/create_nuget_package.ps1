@@ -1,0 +1,1 @@
+chocolatey pack .\Upm\Upm.nuspec

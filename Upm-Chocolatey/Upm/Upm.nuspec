@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Upm</id>
+        <version>1.12</version>
+        <authors>Vasioky</authors>
+        <projectUrl>https://github.com/adrian/upm-swing</projectUrl>
+        <iconUrl>https://raw.github.com/adrian/upm-swing/master/images/48x48/upm.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Universal Password Manager allows you to store all your passwords in one highly secure encrypted database. Its strengths are simplicity, portability and security (uses 128bit AES encryption). UPM is available on Android, Windows, OS X and Linux.</description>
+        <tags>Universal Password Manager</tags>
+        <dependencies>
+            <dependency id="java.jdk" version="7.21" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="D:\Programming\GitHub\nugetpackages\Upm-Chocolatey\Upm\tool\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
+        <file src="D:\Programming\GitHub\nugetpackages\Upm-Chocolatey\Upm\upmziplogo.png" target="upmziplogo.png" />
+    </files>
+</package>

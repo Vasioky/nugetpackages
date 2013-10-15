@@ -1,0 +1,1 @@
+cinst Upm -source  "D:\Programming\GitHub\nugetpackages\Upm-Chocolatey" -force -debug
